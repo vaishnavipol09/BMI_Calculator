@@ -1,5 +1,5 @@
 const form = document.querySelector("form")
-//0const height = parseInt(document.querySelector("#height").value) - this usecase will give you empty
+//const height = parseInt(document.querySelector("#height").value) - this usecase will give you empty
 
 form.addEventListener("submit", function(e)  {
     e.preventDefault()
